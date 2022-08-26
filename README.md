@@ -1,6 +1,7 @@
+# Portfolio Website
+
 <li>The project is in the progress but the overall introduction and abstract with the images of the baisc UI have been mentioned below.</li>
 
-# Portfolio Website
 <li>The website creates a portfolio of the person after doing regitration on the page.<br>
 The project uses the following technologies :-<br>
 Node JS, React JS, Express JS, CSS , Javascript, HTML5, Bootstrap,MONGO DB.</li>
