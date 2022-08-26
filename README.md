@@ -17,7 +17,7 @@
 <p>Whenever user would login, the js would check if the user data exists in database or not. If the data exists then the user gets successful login and also the about page 
 is customised according to the user login data.
 If the user is not registered then the user is redirected to registration page and all the necessary details are asked to fillup.
-If the email or password is not correct or not matching with the hashes password then the user is given warning about entering correct data.
+If the email or password is not correct or not matching with the hashed password then the user is given warning about entering correct data.
 </p>
 
 <br>
